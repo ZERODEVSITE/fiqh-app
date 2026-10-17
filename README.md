@@ -45,7 +45,7 @@
   <tr>
     <td align="center" width="25%"><h2>963</h2>مسألة فقهية</td>
     <td align="center" width="25%"><h2>4</h2>مذاهب للمقارنة</td>
-    <td align="center" width="25%"><h2>11</h2>بابًا رئيسيًا</td>
+    <td align="center" width="25%"><h2>12</h2>بابًا رئيسيًا</td>
     <td align="center" width="25%"><h2>3</h2>أنماط للمشاركة</td>
   </tr>
 </table>
